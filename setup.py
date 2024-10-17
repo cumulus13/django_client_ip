@@ -13,7 +13,7 @@ setup(
     packages=['django_client_ip'],
     include_package_data=True,
     license='MIT',
-    description='A Django middleware for retrieving client IP addresses and geolocation',
+    description='A Django middleware for retrieving client IP addresses and geolocation using ip-api.com',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='Hadi Cahyadi',
